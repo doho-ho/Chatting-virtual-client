@@ -1,0 +1,19 @@
+{
+    "Monitor":
+    {
+        "Server_ip":"127.0.0.1",
+        "Server_port":30125,
+        "Workerthread_count":1,
+        "Nagle_option":true
+    },
+    "MonitorDataList":
+    [
+        "CPU",
+        "Memory",
+        "Connect TPS",
+        "Recv TPS",
+        "Send TPS",
+        "Content TPS",
+        "Avr recv time"
+    ]
+}
