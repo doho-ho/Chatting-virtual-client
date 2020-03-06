@@ -5,3 +5,4 @@
 2. rapidjson library 사용 - Config data load
 
 # 2020.03.06 소스코드 업로드
+1. 개인제작 라이브러리 -> EDH Library repository 참조
